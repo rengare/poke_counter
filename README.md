@@ -1,0 +1,3 @@
+- ~~opencv~~
+- ocr
+- ai recognizing model
